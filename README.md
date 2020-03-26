@@ -1,4 +1,4 @@
-# *uMe*
+# *our chat app(firebase)*
 > _urgent messages_
 
 ### features for learner / developer-
